@@ -15,3 +15,11 @@ Manage secure connections with restrictions on who is given remote access to roo
 ```mysql_secure_connection```,
 and then connect to root server 
 ```mysql -u root```.
+
+# Blog Website Database
+<p align="center">
+  EER (enhanced entity relationship diagram)
+  <img width="566" alt="Screenshot 2024-12-15 at 1 34 56 PM" src="https://github.com/user-attachments/assets/14ab3839-8d69-4879-b1a5-82843cc7cd4b" />
+</p>
+
+
