@@ -17,9 +17,13 @@ and then connect to root server
 ```mysql -u root```.
 
 # Blog Website Database
-<p align="center">
-  EER (enhanced entity relationship diagram)
+<div align="center">
+  <p align="center">EER (enhanced entity relationship diagram)</p>
   <img width="566" alt="Screenshot 2024-12-15 at 1 34 56 PM" src="https://github.com/user-attachments/assets/14ab3839-8d69-4879-b1a5-82843cc7cd4b" />
-</p>
+</div>
 
+# Launch Pad Student Demographics
+<div align="center">
+  <img width="323" alt="Screenshot 2024-12-15 at 8 17 14 PM" src="https://github.com/user-attachments/assets/49cc0b7c-b317-43d6-9092-aee9f693763b"/>
+</div>
 
